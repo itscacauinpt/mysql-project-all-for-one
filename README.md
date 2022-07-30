@@ -16,6 +16,6 @@ Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe
 
 <hr/>
 
-<div align="center">Copyright :copyright: Trybe 2022 - Project MySql Planet Search
+<div align="center">Copyright :copyright: Trybe 2022 - Project MySql All For One
 <br/>
 Realizado de acordo com as diretrizes do <a href="https://blog.betrybe.com/wp-content/uploads/2020/12/Código-de-Conduta-Trybe-1.pdf" >Código de Conduta e do Manual da Pessoa Estudante da Trybe</a>.</div>
